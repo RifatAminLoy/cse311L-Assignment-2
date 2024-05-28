@@ -1,4 +1,3 @@
-
 const mysql = require("mysql");
 const { logger } = require("../utility/logger");
 const { DB_HOST, DB_USER, DB_PASS } = require("../utility/secrets");
